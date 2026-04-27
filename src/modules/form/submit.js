@@ -15,5 +15,4 @@ selectedDate.min = inputDate
 form.onsubmit = (event) => {
     //Previne o comportamento padrão do formulário de recarregar a página
   event.preventDefault()
-  console.log("Formulário enviado!")
 }
